@@ -1,40 +1,33 @@
 # 🐳
+# 環境構築
 
-## 環境構築
+### 1. ローカルにcloneする
 
-### 1. 「tq-docker-template」リポジトリをテンプレートとして、自身の Github にリポジトリを作成
+### 2. Dockerのインストール
 
-<img width="1440" alt="スクリーンショット 2021-12-24 11 05 14" src="https://user-images.githubusercontent.com/63081802/147306983-b09827a5-cdbd-4061-a1c3-390496b266a8.png">
+### 3. 「Docker Desktop」の起動
 
-### 2. ローカルにcloneする
-
-### 3. Dockerのインストール
-
-### 4. 「Docker Desktop」の起動
-
-### 5. 「Dockerコンテナ」の起動
+### 4. 「Dockerコンテナ」の起動
 
 ```
 ./docker-compose-local.sh up
 ```
 
-## その他コマンド
+# 機能一覧
 
-### Docker 環境に変更があった時
+[ユーザー登録画面](https://round-petunia-b6f.notion.site/c0311abf197b42c193382eaca27643c7)
 
-```
-./docker-compose-local.sh up --build
-```
+[収入一覧ページ](https://round-petunia-b6f.notion.site/317adb4055ae4c1ea31301b07191da1a)
 
-## ページ紹介
+[支出一覧ページ](https://round-petunia-b6f.notion.site/c493686c64354dabbf942a9622b32afd)
 
-php
 
-[localhost:8080](http://localhost:8080)
+# ページ紹介
 
-PHPMyAdmin
+[ローカルサーバー](http://localhost:8080)
 
-[localhost:3306](http://localhost:3306)
+[PHPMyAdmin](http://localhost:3306)
+
 
 ## 設定を変更したい
 
