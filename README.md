@@ -15,7 +15,7 @@
 
 # 機能一覧
 
-[Topページ](https://round-petunia-b6f.notion.site/Top-b6bf1ec4356441c6ac56beea5183eed6)
+[トップページ](https://round-petunia-b6f.notion.site/Top-b6bf1ec4356441c6ac56beea5183eed6)
 
 [ユーザー登録画面](https://round-petunia-b6f.notion.site/c0311abf197b42c193382eaca27643c7)
 
