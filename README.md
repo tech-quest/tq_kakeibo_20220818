@@ -53,7 +53,7 @@
 
 kakeibo
 
-#　テーブル設計
+# テーブル設計
 
 [users](https://round-petunia-b6f.notion.site/296c4d4c0f3c40a7961536bdc888a6d7?v=e0d1f265a98f4139ac9f8d6d7434bf57)
 
