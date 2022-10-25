@@ -1,17 +1,20 @@
 # 🐳
+
 # 環境構築
 
-### 1. ローカルにcloneする
+### 1. ローカルに clone する
 
-### 2. Dockerのインストール
+### 2. Docker のインストール
 
 ### 3. 「Docker Desktop」の起動
 
-### 4. 「Dockerコンテナ」の起動
+### 4. 「Docker コンテナ」の起動
 
 ```
 ./docker-compose-local.sh up
 ```
+
+### 5. プロジェクト直下で「./composer.sh install」を実行
 
 # 機能一覧
 
@@ -23,7 +26,7 @@
 
 [ヘッダー](https://round-petunia-b6f.notion.site/a2c191a4c9ca4686921e3b93535e63c7)
 
-[Topページ](https://round-petunia-b6f.notion.site/Top-b6bf1ec4356441c6ac56beea5183eed6)
+[Top ページ](https://round-petunia-b6f.notion.site/Top-b6bf1ec4356441c6ac56beea5183eed6)
 
 [収入一覧ページ](https://round-petunia-b6f.notion.site/317adb4055ae4c1ea31301b07191da1a)
 
@@ -65,13 +68,11 @@
 
 [categories](https://round-petunia-b6f.notion.site/b521fd1c87104dfb8e7c82f515baf40b?v=97649dc7667942fd8271d2a58a45bd9a)
 
-
 # ページ紹介
 
 [ローカルサーバー](http://localhost:8080)
 
 [PHPMyAdmin](http://localhost:3306)
-
 
 ## 設定を変更したい
 
