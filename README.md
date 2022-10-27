@@ -14,7 +14,11 @@
 ./docker-compose-local.sh up
 ```
 
-### 5. プロジェクト直下で「./composer.sh install」を実行
+### 5. 「Docker コンテナ」を起動した状態で、マイグレートする
+
+```
+make migrate
+```
 
 # 機能一覧
 
