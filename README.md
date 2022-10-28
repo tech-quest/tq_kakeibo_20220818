@@ -14,7 +14,9 @@
 ./docker-compose-local.sh up
 ```
 
-### 5. 「Docker コンテナ」を起動した状態で、マイグレートする
+### 5.「localhost:3306」にアクセスし、「kakeibo」という名前でデータベースを作成する（Docker コンテナは起動した状態）
+
+### 6. 「Docker コンテナ」を起動した状態で、マイグレートする
 
 ```
 make migrate
